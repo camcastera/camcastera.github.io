@@ -63,10 +63,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.12)
+  bundler (~> 2.2.31)
   jekyll (~> 3.3)
   rake (~> 12.3)
   strata_jekyll_theme!
 
 BUNDLED WITH
-   1.17.3
+   2.2.31
