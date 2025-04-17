@@ -41,7 +41,7 @@ My research focuses on optimization algorithms for machine learning (mainly seco
 * Image processing (Licence 3)
 * Tutoring projects on image processing and machine learning
 
-# Contact
+## Contact
 -------
 
 \[firstname\].\[lastname\]@math.u-bordeaux.fr
