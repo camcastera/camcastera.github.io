@@ -4,12 +4,15 @@ icon: fa-solid fa-comments
 order: 3
 ---
 
-
+*   **From Learning to Optimize to learning Optimization Algorithms**
+    * AISTATS Conference, Mai Khao, Thailand (Poster, 2025)
+    * EUROPT 2025, Southampton England (2025)
 *   **Automatic Hyper-parameter Tuning of Optimization Algorithms via Lyapunov Damping**
     *   Probability and Statistics Seminar, IMAG, Montpellier, France (2024)
     *   Optimization & Statistics Seminar, IMT Toulouse, France (2024)
     *   MLSP Seminar, ENS Lyon, France (2024)
 *   **Continuous Newton-like Methods featuring Inertia and Variable Mass**
+    *   Journées SMAI, Carcans, France (2023)
     *   ICIAM, Tokyo, Japan (2023)
     *   MOP Seminar, Saarbrücken, Germany (2023)
 *   **Second-order Algorithms for Training Neural Networks**
