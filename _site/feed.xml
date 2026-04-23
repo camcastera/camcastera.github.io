@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Camille Castera</title>
   <subtitle></subtitle>
-  <updated>2025-10-07T10:16:36+02:00</updated>
+  <updated>2026-04-23T15:19:27+02:00</updated>
   <author>
     <name>Camille Castera</name>
     <uri>http://localhost:4000/</uri>
@@ -13,7 +13,7 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
-  <rights> © 2025 Camille Castera </rights>
+  <rights> © 2026 Camille Castera </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
