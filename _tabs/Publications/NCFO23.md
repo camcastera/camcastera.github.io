@@ -1,5 +1,5 @@
-#### Accelerated gradient dynamics on Riemannian manifolds: Faster rate and trajectory convergence (2023)
+#### Accelerated gradient dynamics on Riemannian manifolds: faster rate and trajectory convergence (2026)
 
 T. Natu, C. Castera, J. Fadili, P. Ochs  
-_Preprint_  
-[arXiv](https://arxiv.org/abs/2312.06366)
+_Optimization_  
+[Journal](https://www.tandfonline.com/doi/full/10.1080/02331934.2026.2642342) |[arXiv](https://arxiv.org/abs/2312.06366)
